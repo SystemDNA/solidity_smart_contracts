@@ -1,8 +1,11 @@
 // SPDX-License-Identifier: GPL-3.0
-//=============20.56 comment updated ==========
+//=============21.39 comment updated ==========
 // Amended by HashLips
 /**
     !Disclaimer!
+
+    21.39 comment updated
+
     These contracts have been used to create tutorials,
     and was created for the purpose to teach people
     how to create smart contracts on the blockchain.
