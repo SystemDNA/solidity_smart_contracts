@@ -1,8 +1,12 @@
 // SPDX-License-Identifier: GPL-3.0
-//=============22.02 comment updated ==========
+//=============22.07 comment updated ==========
 // Amended by HashLips
 /**
     !Disclaimer!
+
+
+
+    Test
 
     These contracts have been used to create tutorials,
     and was created for the purpose to teach people
@@ -13,8 +17,7 @@
     of the code. That being said, the code has been tested 
     to the best of the developers' knowledge to work as intended.
 */
-//=============22.02 comment updated ==========
-//=============22.02 comment updated ==========
+//=============22.04 comment updated ==========
 pragma solidity >=0.7.0 <0.9.0;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
