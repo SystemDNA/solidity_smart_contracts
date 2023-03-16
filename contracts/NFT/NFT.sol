@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-
+//=================Comment Added==========
 // Amended by HashLips
 /**
     !Disclaimer!
@@ -141,4 +141,4 @@ contract NFT is ERC721Enumerable, Ownable {
 }
 
 
-//=================144==========
+
