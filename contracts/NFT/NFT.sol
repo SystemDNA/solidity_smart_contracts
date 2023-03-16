@@ -4,8 +4,6 @@
 /**
     !Disclaimer!
 
-    21.39 comment updated
-
     These contracts have been used to create tutorials,
     and was created for the purpose to teach people
     how to create smart contracts on the blockchain.
