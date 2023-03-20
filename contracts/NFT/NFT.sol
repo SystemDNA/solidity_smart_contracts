@@ -3,9 +3,6 @@
 // Amended by HashLips
 /**
     !Disclaimer!
-
-    Tested commit
-
     These contracts have been used to create tutorials,
     and was created for the purpose to teach people
     how to create smart contracts on the blockchain.
@@ -15,9 +12,7 @@
     of the code. That being said, the code has been tested 
     to the best of the developers' knowledge to work as intended.
 */
-//=============22.04 comment updated ==========
 pragma solidity >=0.7.0 <0.9.0;
-
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
