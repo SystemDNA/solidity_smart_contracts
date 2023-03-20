@@ -1,12 +1,8 @@
 // SPDX-License-Identifier: GPL-3.0
-//=============22.07 comment updated ==========
+//=============07.11 comment updated ==========
 // Amended by HashLips
 /**
     !Disclaimer!
-
-
-
-    Test
 
     These contracts have been used to create tutorials,
     and was created for the purpose to teach people
